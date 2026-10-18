@@ -1,0 +1,7 @@
+ANRS stands for Ammonium Nitrate Returns System.
+
+The system is used to manage and monitor ammonium nitrate transactions and returns.
+
+License holders dealing with ammonium nitrate are required to submit returns through ANRS.
+
+The objective is to ensure regulatory compliance and safe handling of ammonium nitrate.

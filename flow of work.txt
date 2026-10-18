@@ -1,0 +1,34 @@
+Suggested milestone order
+
+Milestone 1
+
+Ollama working ✅
+PDF loading
+Chunking
+
+Milestone 2
+
+ChromaDB indexing
+Similarity search
+
+Milestone 3
+
+Llama 3 + retrieved context
+
+Milestone 4
+
+Query preprocessing
+
+Milestone 5
+
+BM25
+
+Milestone 6
+
+Hybrid retrieval
+
+Milestone 7
+
+Reranking
+
+This order matches how production RAG systems are usually developed and makes debugging much easier.

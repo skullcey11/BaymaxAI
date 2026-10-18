@@ -1,0 +1,21 @@
+SETT/
+│
+├── .venv/
+├── data/
+│   ├── sett_rules.pdf
+│   ├── explosives_rules.pdf
+│
+├── indexing/
+│   ├── load_documents.py
+│   ├── chunk_documents.py
+│   └── create_vector_db.py
+│
+├── query/
+│   ├── query_processor.py
+│   ├── retriever.py
+│   ├── hybrid_search.py
+│   └── prompt_builder.py
+│
+├── app.py
+├── requirements.txt
+└── chroma_db/

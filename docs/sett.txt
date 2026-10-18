@@ -1,0 +1,7 @@
+SETT stands for System for Explosives Tracking and Tracing.
+
+It is a system developed by PESO to monitor the movement of explosives from manufacture to consumption.
+
+The system enables tracking of explosives, transportation records, storage locations, and consumption details.
+
+SETT improves transparency and prevents unauthorized use of explosives.
